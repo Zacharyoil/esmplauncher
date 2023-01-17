@@ -513,16 +513,6 @@
           }
         },
         {
-          "id": "com.blamejared:clumps:9.0.0+14@jar",
-          "name": "Clumps",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19083,
-            "url": "http://192.226.248.252:9797/mods/servers/esmp-1.19.2/forgemods/required/Clumps-forge-1.19.2-9.0.0+14.jar",
-            "MD5": "bdf6d74aadb9d5e5b0167a40ad0ad90d"
-          }
-        },
-        {
           "id": "codechicken.lib:codechickenlib:4.3.0.470@jar",
           "name": "CodeChicken Lib",
           "type": "ForgeMod",
@@ -590,16 +580,6 @@
             "size": 164337,
             "url": "http://192.226.248.252:9797/mods/servers/esmp-1.19.2/forgemods/required/DarkUtilities-Forge-1.19.2-13.1.2.jar",
             "MD5": "64d9daf2d11aba19c20928a44ae1dd27"
-          }
-        },
-        {
-          "id": "de.geheimagentnr1:discordintegration:2.2.1@jar",
-          "name": "Discord Integration",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7472560,
-            "url": "http://192.226.248.252:9797/mods/servers/esmp-1.19.2/forgemods/required/DiscordIntegration-1.19.2-2.2.1.jar",
-            "MD5": "a5b0fdc7b7677a6b9914b1e36308b384"
           }
         },
         {
